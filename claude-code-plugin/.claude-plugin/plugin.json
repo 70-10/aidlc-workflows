@@ -1,0 +1,10 @@
+{
+  "name": "aidlc",
+  "description": "AI-DLC adaptive software development workflow for Claude Code",
+  "version": "1.0.0",
+  "author": { "name": "70-10" },
+  "homepage": "https://github.com/70-10/aidlc-workflows",
+  "repository": "https://github.com/70-10/aidlc-workflows",
+  "license": "MIT-0",
+  "keywords": ["aidlc", "sdlc", "workflow", "development-lifecycle"]
+}

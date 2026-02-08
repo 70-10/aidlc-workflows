@@ -1,0 +1,14 @@
+{
+  "name": "aidlc-workflows",
+  "owner": { "name": "70-10" },
+  "metadata": {
+    "description": "AI-DLC plugins for AI-assisted development tools"
+  },
+  "plugins": [
+    {
+      "name": "aidlc",
+      "source": "./claude-code-plugin",
+      "description": "AI-DLC adaptive software development workflow"
+    }
+  ]
+}
